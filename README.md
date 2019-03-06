@@ -5,7 +5,7 @@
 - [Driver nvidia](https://www.nvidia.fr/Download/index.aspx) (418.39 tested)
 - [Cuda](https://developer.nvidia.com/cuda-downloads) (10.1 tested)
 - [Docker](https://docs.docker.com/install/)
-- [Docker-compose](https://github.com/docker/compose/releases)
+- (Optional)[Docker-compose](https://github.com/docker/compose/releases)
 - [Nividia-docker-v2](https://github.com/nvidia/nvidia-docker/wiki/Installation-(version-2.0))
 
 ## Install dependancies command caryall
