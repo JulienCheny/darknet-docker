@@ -1,0 +1,10 @@
+version: '2.3'
+
+services:
+
+  darknet:
+    build: .
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    tty: true
